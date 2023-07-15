@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@auth0/angular-jwt": "^5.1.2",
+    "ng-angular-popup": "^0.2.0"
+  }
+}
